@@ -24,9 +24,10 @@ venv/
 
 # Notebook
 .ipynb_checkpoints/
+.out-of-code-insights
 
 # 数据与模型产物
-outputs/
+
 figures/
 *.log
 
