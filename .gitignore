@@ -1,0 +1,37 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 密钥/证书
+*.pem
+*.ppk
+.ssh/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.coverage
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Notebook
+.ipynb_checkpoints/
+
+# 数据与模型产物
+outputs/
+figures/
+*.log
+
+# 临时/压缩
+*.zip
+*.tar
+*.tar.gz
+
